@@ -16,7 +16,7 @@ Ran lastest centos terminal from within the Debian virtual terminal.
 
 #### Docker commands
 
-List containers `sudo docker ps -a`
+List all containers `sudo docker ps -a`
 
 Start docker image `sudo docker start <CONTAINER ID>`
 
