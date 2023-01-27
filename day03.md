@@ -71,3 +71,7 @@ do
 done
 exit
 ```
+
+User input:
+
+Use the `read -p "Display Text" InputVariable` command syntax.
