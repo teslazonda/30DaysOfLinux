@@ -38,3 +38,36 @@ To test if a file exists: `test -f /PATH/`
 You can use`[]` instead of the `test` command, ensuring there is a space after the first bracket and before the last bracket: `[ -f /PATH/ ]`.
 
 `-z` option within brackets is `TRUE` if the variable does not exist.
+
+
+### Looping in Bash
+
+For loops and the `seq` command
+
+Example:
+
+```bash
+#!/bin/bash
+#
+for loopVar in $(seq 1 6)
+do
+    echo "The number is: " $loopVar
+done
+exit
+```
+
+While loops
+
+Example:
+
+```bash
+#!/bin/bash
+#
+loopVar=1
+while [ $loopVar -ne 10 ]
+do
+    echo "The number is: " $loopVar
+    loopVar=$[ $loopVar + 1]
+done
+exit
+```
