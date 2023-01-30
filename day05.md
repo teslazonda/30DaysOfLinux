@@ -4,3 +4,8 @@
 <br></br>
 
 ### Notes
+
+Functions are declared in bash one of two ways:
+
+`function name {<commands>}`
+`name() {<commands>}`
