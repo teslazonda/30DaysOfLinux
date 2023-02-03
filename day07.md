@@ -4,3 +4,5 @@
 <br></br>
 
 ### Notes
+
+We can manage user permissions for users through groups.
