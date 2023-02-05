@@ -6,3 +6,4 @@
 ### Notes
 
 We can manage user permissions for users through groups.
+We can create users with different levels of permissions.
