@@ -1,4 +1,4 @@
-# Day 9: Scheduling Jobs with a cron table
+# Day 10: Scheduling Jobs with a cron table
 
 ## LPIC-1 Objective 107.2
 <br></br>
@@ -46,3 +46,7 @@ MAILTO=<username>
 5. Day of the week (0-7, Sunday is 0 or 7) || Can also use three letter names of the week (sun,mon,tue)
 6. Account to run command
 7. Command to run
+
+Stored in `/etc/cron.d`
+
+There are also different directories for each time span, (hourly, daily, etc) `/etc/cron.*`
