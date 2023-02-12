@@ -24,4 +24,6 @@ Configuration file: `/etc/locale.conf` or`/etc/default/locale`
 
 #### Managing Your Locale
 
-Change the user locale: ``
+Change the user locale: `export <LC_VARIABLE>=<setting>.<CHARACTER-SET>`
+
+`export LC_ALL=hi_IN.UTF-8` - changes locale to hindi.
