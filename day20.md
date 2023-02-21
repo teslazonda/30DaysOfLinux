@@ -4,3 +4,5 @@
 <br></br>
 
 ## Notes
+
+Use the command `ipconfig` to see your current IP settings.
