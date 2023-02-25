@@ -4,3 +4,13 @@
 <br></br>
 
 ## Notes
+
+Use `hostnamectl` to view hostname.
+
+Use `echo $HOSTNAME`
+
+Use `hostname`
+
+Use `cat /etc/hostname`
+
+* To change the hostname: `hostnamectl set-hostname <hostname>`
