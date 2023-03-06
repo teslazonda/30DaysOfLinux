@@ -4,3 +4,5 @@
 <br></br>
 
 ## Notes
+
+Taking the practice exam for both halves of the test.
