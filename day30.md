@@ -7,7 +7,7 @@
 
 Tips:
 
-Take the practice exam for both halves of the test.
+Take the practice exam for both halves of the test - this will help you see what you need to study.
 
 * The first half of the exam is much more command heavy than the second half.
   * Learning file types, permissions, and in general where certain files are stored is much more important in a real job than it is on the exam.
