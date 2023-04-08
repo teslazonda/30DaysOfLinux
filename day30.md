@@ -16,4 +16,4 @@ Take the practice exam for both halves of the test - this will help you see what
 
 * For the second half of the exam network theory is a must. Flashcards are useful here. You either know it or you don't.
 
-* There are flash card decks publicly available through [Anki](https://apps.ankiweb.net). Beware that publicly available decks may have mistakes. It's a good idea to test all commands in your terminal (preferably in a virtual machine).
+* There are flash card decks publicly available through [Anki](https://apps.ankiweb.net). Beware that publicly available decks may have mistakes in them. It's a good idea to test all commands in your terminal (preferably in a virtual machine).
